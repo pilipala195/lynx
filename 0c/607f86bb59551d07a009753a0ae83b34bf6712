@@ -1,0 +1,16 @@
+.github/workflows/node-lynx-publish.yml
+  h_4927c3d0e8fcc0 13,49
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "0c607f86bb59551d07a009753a0ae83b34bf6712",
+  "prompts": {},
+  "humans": {
+    "h_4927c3d0e8fcc0": {
+      "author": "pilipala195 <16253004+pilipala195@users.noreply.github.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
